@@ -1,0 +1,9 @@
+streamlit
+pymongo
+pymupdf
+pillow
+pandas
+groq
+deep-translator
+langdetect
+plotly
